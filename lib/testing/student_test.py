@@ -25,3 +25,5 @@ class TestStudent:
         my_student = Student("My", "Student")
         my_student.learn("New information")
         assert("New information" in my_student.knowledge)
+
+
